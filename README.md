@@ -2,8 +2,7 @@
 
 A library to provide access to local storage and session storage in Blazor applications. 
 
-This is a combined fork of [Blazored.SessionStorage](https://github.com/Blazored/SessionStorage) and [Blazored.LocalStorage](https://github.com/Blazored/LocalStorage) which were originally developed by [Chris Sainty](https://github.com/chrissainty)
-which were originally developed by [Chris Sainty](https://github.com/chrissainty).
+This is a combined fork of [Blazored.SessionStorage](https://github.com/Blazored/SessionStorage) and [Blazored.LocalStorage](https://github.com/Blazored/LocalStorage) which were originally developed by [Chris Sainty](https://github.com/chrissainty).
 
 # Motivation
 
